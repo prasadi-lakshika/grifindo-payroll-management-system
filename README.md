@@ -1,6 +1,6 @@
 # Grifindo Toy Store - Payroll Management System
 
-A Windows Forms desktop application for managing employee payroll in a toy store.
+A C# Windows Forms desktop application designed to manage employee payroll operations for a toy store, including authentication, salary calculation, and employee management.
 
 ## Features
 
@@ -71,3 +71,20 @@ SqlConnection conn = new SqlConnection(@"Data Source=YOUR_SERVER_NAME;Initial Ca
 ## License
 
 This project is for educational purposes.
+
+## Screenshots
+
+### Login Page
+![Login Screenshot](screenshots/login.png)
+
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+### Employee Registration
+![Employee Registration](screenshots/employee-registration.png)
+
+### Salary Calculation
+![Salary Calculation](screenshots/salary-calculation.png)
+
+### Settings
+![Settings](screenshots/settings.png)
