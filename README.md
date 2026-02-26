@@ -72,19 +72,3 @@ SqlConnection conn = new SqlConnection(@"Data Source=YOUR_SERVER_NAME;Initial Ca
 
 This project is for educational purposes.
 
-## Screenshots
-
-### Login Page
-![Login Screenshot](screenshots/login.png)
-
-### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Employee Registration
-![Employee Registration](screenshots/employee-registration.png)
-
-### Salary Calculation
-![Salary Calculation](screenshots/salary-calculation.png)
-
-### Settings
-![Settings](screenshots/settings.png)
